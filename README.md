@@ -174,8 +174,8 @@
     
    <h3>1. Clonar o repositório</h3>
     <pre><code>
-git clone https://github.com/seu-usuario/star-wars-galaxy-api.git
-cd star-wars-galaxy-api
+git clone https://github.com/sucloudflare/desafio-fullstack.git
+cd desafio-fullstack
     </code></pre>
 
   <h3>2. Instalar dependências</h3>
@@ -385,8 +385,8 @@ npm run test
 <h2>Instalação</h2>
 <ol>
     <li>Clonar o repositório
-        <pre><code>git clone https://github.com/seu-usuario/star-wars-galaxy-api.git
-cd star-wars-galaxy-api</code></pre>
+        <pre><code>git clone  https://github.com/sucloudflare/desafio-fullstack.git
+cd desafio-fullstack </code></pre>
     </li>
     <li>Instalar dependências
         <pre><code>npm install</code></pre>
